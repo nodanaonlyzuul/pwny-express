@@ -6,9 +6,6 @@ var postal_codes  = require('./routes/postal_codes');
 
 var app = express();
 
-// view engine setup
-app.set('views', path.join(__dirname, 'views'));
-
 app.use(logger('dev'));
 
 app.use('/', postal_codes);
