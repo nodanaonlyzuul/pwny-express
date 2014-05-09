@@ -21,7 +21,7 @@ _e.g http://localhost:3000/postal_codes/US/33351_
 h2. Performance
 
 This is proof-of-concept.
-It performs remarkably un-shittyful for being a datastructure fed by a 69MB text file.
+It performs remarkably un-shittyful for being a data structure fed by a 69MB text file.
 There's no shortage of better places to store data.
 
 h2.  Data
