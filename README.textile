@@ -1,0 +1,28 @@
+h1.  Pwny Express
+
+You know...because it has to do with postal codes and it's written in Express.
+!https://dl.dropboxusercontent.com/u/92181/dont_delete/clap.gif!
+
+h2. Installing
+
+# Clone repository
+# @npm install@
+# @unzip ./resources/allCountries.zip@
+# npm start
+
+h2. Using
+
+http://localhost:3000/postal_codes/[2LETTER-ISO-COUNTRY-UPCASE]/[POSTAL CODE]
+
+_e.g http://localhost:3000/postal_codes/US/33351_
+
+h2. Performance
+
+This is proof-of-concept.
+It performs remarkably un-shittyful for being a datastructure fed by a 69MB text file.
+There's no shortage of better places to store data.
+
+h2.  Data
+
+This data is from "Geonames Postal Code Database":http://download.geonames.org/export/zip/
+If it gets out of data - send a PR my way.
