@@ -27,4 +27,4 @@ There's no shortage of better places to store data.
 h2.  Data
 
 This data is from "Geonames Postal Code Database":http://download.geonames.org/export/zip/
-If it gets out of data - send a PR my way.
+If it gets out of date - send a PR my way.
