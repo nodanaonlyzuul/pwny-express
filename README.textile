@@ -18,11 +18,13 @@ http://localhost:3000/postal_codes/[2LETTER-ISO-COUNTRY-UPCASE]/[POSTAL CODE]
 
 _e.g http://localhost:3000/postal_codes/US/33351_
 
-h2. Performance
+h2. Performance / Scalability
 
-This is proof-of-concept.
-It performs remarkably un-shittyful for being a data structure fed by a 69MB text file.
-There's no shortage of better places to store data.
+This proof-of-concept performs remarkably _un-shittyful_ for being a data structure fed by a 69MB text file.
+Like, freaky fast. 
+
+If you put this behind Varnish there'd be no stopping you.
+You would crush your enemies, see them driven before you, and hear the lamentation of their women.
 
 h2.  Data
 
