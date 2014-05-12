@@ -33,7 +33,7 @@ h4.  Exporting Static Files
 
 If all you need is lat lng...it seems easy enough to write a script that would generate static files
 in a directory structure that would look like the endpoints. I could imaginge serving that content being
-the fastest, most stable and least-engineered way of running your own lat/lng service.
+the fastest, most stable, and least-engineered way of running your own lat/lng service.
 
 h2.  Data
 
