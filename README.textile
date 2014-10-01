@@ -32,7 +32,7 @@ You would crush your enemies, see them driven before you, and hear the lamentati
 h4.  Exporting Static Files
 
 If all you need is lat lng...it seems easy enough to write a script that would generate static files
-in a directory structure that would look like the endpoints. I could imaginge serving static files with nginx being
+in a directory structure that would look like the endpoints. I could imagine serving static files with nginx being
 the fastest, most stable, and least-engineered way of running your own lat/lng service.
 
 h2.  Data
