@@ -23,7 +23,7 @@ h2. Performance / Scalability
 h4.  Running This as an Express App
 
 This proof-of-concept performs remarkably _un-shittyful_ for being a data structure fed by a 69MB text file.
-Like, freaky fast. If you're going to want to add any conditional logic or intellegence then you're going 
+Like, freaky fast. If you're going to want to add any conditional logic or intellegence then you're going
 to obviously want to use Express. Maybe you'll want to customize the data store.
 
 If you put this behind Varnish there'd be no stopping you.
@@ -38,4 +38,5 @@ the fastest, most stable, and least-engineered way of running your own lat/lng s
 h2.  Data
 
 This data is from "Geonames Postal Code Database":http://download.geonames.org/export/zip/
-If it gets out of date - send a PR my way.
+*Master HEAD currently uses the verison created 2015-06-04 02:56.*
+Send me a PR is it gets out of date.
