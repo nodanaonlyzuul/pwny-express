@@ -38,5 +38,5 @@ the fastest, most stable, and least-engineered way of running your own lat/lng s
 h2.  Data
 
 This data is from "Geonames Postal Code Database":http://download.geonames.org/export/zip/
-*Master HEAD currently uses the verison created 2016-12-27 04:55*
+*Master HEAD currently uses the verison created 2017-07-23 09:48*
 Send me a PR is it gets out of date.
